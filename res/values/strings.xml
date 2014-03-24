@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">HolaChallenge2</string>
+	<string name="Start">Start</string>
+	<string name="Starting">Starting</string>
+	<string name="Stop">Stop</string>
+	<string name="Stopping">Stopping</string>
+</resources>
